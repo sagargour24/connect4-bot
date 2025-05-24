@@ -4,6 +4,12 @@ This project demonstrates how to train a Recurrent Neural Network (RNN) agent to
 
 ---
 
+## 🕹️ Demo
+
+![Connect4 AI in Action](images/connect4_agent.gif)
+
+---
+
 ## 🧠 Project Overview
 
 Connect Four is a classic two-player strategy game. In this project, we model it as a reinforcement learning environment and train an intelligent agent using:
